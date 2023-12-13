@@ -1,5 +1,5 @@
 
-# Crypto Currency
+# BMI Calculator
 
 ## ➡️ [Live Demo](https://bmi-calculator-appnc.netlify.app//)
 
